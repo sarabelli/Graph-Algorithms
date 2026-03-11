@@ -22,12 +22,12 @@ A Java Swing desktop application for visualizing graphs through an interactive a
 
 ## How to Run
 
-1. Compile all `.java` files inside the `grafoV2` package
+1. Compile all `.java` files inside the `graph_algorithms` package
 2. Run `MainWindow`
 
 ```bash
-javac grafoV2/*.java
-java grafoV2.MainWindow
+javac graph_algorithms/*.java
+java graph_algorithms.MainWindow
 ```
 
 > Requires **Java 8** or later.
