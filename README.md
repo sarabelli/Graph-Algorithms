@@ -10,6 +10,8 @@ A Java Swing desktop application for visualizing graphs through an interactive a
 - **Smooth rendering** — nodes and curved edges are drawn with anti-aliasing and drop shadows
 - **Pan & Zoom** — navigate the canvas by dragging and scrolling the mouse wheel
 
+<img width="1905" height="908" alt="Immagine 2026-03-11 162633" src="https://github.com/user-attachments/assets/4a179837-7c8c-4983-9837-5cb729f78d5e" />
+
 ## Project Structure
 
 | File | Description |
